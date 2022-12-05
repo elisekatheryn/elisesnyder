@@ -3,7 +3,7 @@ body.special{
     font-size: 25px;
     color: darkslategrey;  
     font-weight: bold;
-    background-color: lightgrey
+    background-color: lightgrey;
 }
  
 .subheader{
@@ -15,7 +15,7 @@ body.special{
      
 }
 a:visited {
-    color: steelblue
+    color: steelblue;
 }
 
 .subfooter{
